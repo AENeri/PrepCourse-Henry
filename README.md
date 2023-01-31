@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-PrepCouse modulo 2
+trabajo practico de como crear repositorio y realizar cambios.
